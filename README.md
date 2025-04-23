@@ -25,6 +25,8 @@ npm start
 
 ## Deployment
 
+The live site is available at [this link](https://axiom-edu.netlify.app)
+
 ## Built With
 
 - React.js
